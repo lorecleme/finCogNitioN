@@ -11,7 +11,7 @@ Project Organization
     │   ├── dataset_refs   <- Data from third party sources.
     │   └── test_data      <- Test data.
     │
-    ├── models             <- Trained and serialized model checkpoints.
+    ├── models             <- Trained model checkpoints.
     │
     ├── notebooks          <- Jupyter notebooks. 
     │
@@ -23,7 +23,7 @@ Project Organization
     └── src                <- Source code for use in this project.
         ├── __init__.py    <- Makes src a Python module
         │
-        ├── data           <- Scripts to download or generate data
+        ├── data           <- Scripts to download and generate data.
         │   └── make_dataset.py
         │
         ├── preprocessing       <- Scripts to turn raw data into features for modeling
