@@ -1,1 +1,0 @@
-## Here we must show the results achieved by our model by plotting some images and their respective (ground Truth/Prediction)
